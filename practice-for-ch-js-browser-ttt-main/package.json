@@ -1,0 +1,16 @@
+{
+  "name": "practice-for-ch-js-browser-ttt-main",
+  "version": "1.0.0",
+  "description": "Tic-Tac-Toe, At&t's TTT",
+  "private": true,
+  "scripts": {
+    "start": "webpack --watch --mode=development"
+  },
+  "keywords": [],
+  "author": "at&t",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.83.1",
+    "webpack-cli": "^5.1.1"
+  }
+}
